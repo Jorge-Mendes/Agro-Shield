@@ -1,0 +1,1 @@
+All these libraries are necessary for the functioning of the library AgroShield.
