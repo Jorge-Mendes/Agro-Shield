@@ -1,4 +1,13 @@
+######################################
+#        Datatypes (KEYWORD1)        #
+######################################
+
 AgroShield	KEYWORD1
+
+######################################
+#  Methods and Functions (KEYWORD2)  #
+######################################
+
 readSensor	KEYWORD2
 SDI12	KEYWORD2
 printInfo	KEYWORD2
