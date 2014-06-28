@@ -20,4 +20,4 @@ setVacant	KEYWORD2
 takeMeasurement	KEYWORD2
 printBufferToScreen	KEYWORD2
 getDateTime	KEYWORD2
-setDateTime	KEYWORD2 
+setDateTime	KEYWORD2
