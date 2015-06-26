@@ -10,4 +10,4 @@ PCB
 
 ![PCB SIMUL BACK](https://imagizer.imageshack.us/v2/963x765q90/538/wgf0Kt.png)
 
-![PCB FINAL](https://imagizer.imageshack.us/v2/1020x765q90/661/nGm71w.jpg)
+![PCB FINAL](https://imagizer.imageshack.us/v2/994x765q90/538/wRLJ6e.jpg)
