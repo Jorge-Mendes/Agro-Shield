@@ -444,7 +444,7 @@ void AgroShield::SDI12(uint8_t mode)
 													delay(300);
 
 
-													mySDI12.read(); //consume sensor address (you can keep it if you'd like)
+													//mySDI12.read(); //consume sensor address (you can keep it if you'd like)
 
 													if(mySDI12.available()){
 														getDateTime();
@@ -630,7 +630,7 @@ void AgroShield::takeMeasurement(char i){
   while(!mySDI12.available()>5);	// Espera por um "acknowlegement" com o formato - [address][ttt (3 char, seconds)][number of measurments available (0-9)]
   delay(100); 
   
-  mySDI12.read();		//"Consome" o endereço do sensor.
+  //mySDI12.read();		//"Consome" o endereço do sensor.
   
   // Saber quanto tempo temos que esperar pela medição (em segundos).
   int wait = 0; 
@@ -663,7 +663,7 @@ void AgroShield::takeMeasurement(char i){
 
 void AgroShield::printBufferToScreen(){
   String buffer = "";
-  mySDI12.read(); 		// "Consome" o endereço do sensor.
+  //mySDI12.read(); 		// "Consome" o endereço do sensor.
   while(mySDI12.available()){
     char c = mySDI12.read();
     //if(c == '+' || c == '-'){						//Sustitui o ''+'' pela '',''
