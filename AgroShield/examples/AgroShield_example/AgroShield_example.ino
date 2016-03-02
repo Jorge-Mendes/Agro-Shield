@@ -1,5 +1,4 @@
 #include <AgroShield.h>
-#include <FreqCounter.h>
 #include <Wire.h>
 #include <FreqPeriod.h>
 #include <SDI12.h>
