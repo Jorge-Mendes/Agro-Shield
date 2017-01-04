@@ -6,8 +6,14 @@ Shield (expansion board) to interface between Arduino and multiple commercial se
 PCB
 ---
 
-![PCB SIMUL FRONT](http://oi66.tinypic.com/2z6bib9.jpg)
+Simulated (Top)
 
-![PCB SIMUL BACK](http://oi65.tinypic.com/k3oron.jpg)
+<img alt="Simulated (Top)" src="http://oi66.tinypic.com/2z6bib9.jpg" width="450" height="355" />
 
-![PCB FINAL](http://oi66.tinypic.com/2d0bcd3.jpg)
+Simulated (Bottom)
+
+<img alt="Simulated (Bottom)" src="http://oi65.tinypic.com/k3oron.jpg" width="450" height="355" />
+
+Real
+
+<img alt="Real" src="http://oi66.tinypic.com/2d0bcd3.jpg" width="450" height="355" />
