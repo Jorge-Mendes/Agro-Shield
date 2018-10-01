@@ -1,8 +1,5 @@
 Agro-Shield
 ==============
-
-About Agro_Shield
----
 Arduino Shield (expansion board) for Precision Agriculture (PA). This shield allows to connect multiple commercial sensors, used in the context of the PA, to the Arduino.
 
 Supported Interfaces
@@ -17,10 +14,10 @@ This Shield supports the connection of sensors with the following outputs:
 Dependencies
 ---
 The following libraries are required for the operation of the Agro-Shield:
-- FreqPeriod ([Frequency Measurement Library](http://interface.khm.de/index.php/lab/interfaces-advanced/frequency-measurement-library/))
-- RTClib ([Real Time Clock Library](https://github.com/adafruit/RTClib))
-- Wire ([Wire Library](https://github.com/PaulStoffregen/Wire))
-- SDI-12 ([SDI-12 Library](https://github.com/EnviroDIY/Arduino-SDI-12))
+- FreqPeriod (<a href="http://interface.khm.de/index.php/lab/interfaces-advanced/frequency-measurement-library/" target="_blank">Frequency Measurement Library</a>)
+- RTClib (<a href="https://github.com/adafruit/RTClib" target="_blank">Real Time Clock Library</a>)
+- Wire (<a href="https://github.com/PaulStoffregen/Wire" target="_blank">Wire Library</a>)
+- SDI-12 (<a href="https://github.com/EnviroDIY/Arduino-SDI-12" target="_blank">SDI-12 Library</a>)
 
 PCB
 ---
@@ -48,4 +45,4 @@ PCB
 	</table>
 </center>
 
-<sup>*Simulation obtained using POV-Ray software: [povray.org](http://www.povray.org/)</sup>
+<sup>*Simulation obtained using POV-Ray software: <a href="http://www.povray.org/" target="_blank">povray.org</a></sup>
