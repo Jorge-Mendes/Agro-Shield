@@ -1,7 +1,7 @@
 Agro-Shield
 ==============
 
-Shield (expansion board) to interface between Arduino and multiple commercial sensors.
+Arduino Shield (expansion board) for Precision Agriculture (PA). This shield allows to connect multiple commercial sensors, used in the context of the PA, to the Arduino.
 
 PCB
 ---
