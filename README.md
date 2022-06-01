@@ -28,8 +28,8 @@ PCB
 			<th colspan="1">Simulated* (Bottom)</th>
 		</tr>
 		<tr>
-			<td style="text-align:center;"><img alt="Simulated (Top)" src="http://oi66.tinypic.com/2z6bib9.jpg" width="315" height="249"/><br><sup>(click on the image to see in full size)</sup></td>
-			<td style="text-align:center;"><img alt="Simulated (Bottom)" src="http://oi65.tinypic.com/k3oron.jpg" width="315" height="249"/><br><sup>(click on the image to see in full size)</sup></td>
+			<td style="text-align:center;"><img alt="Simulated (Top)" src="https://i.ibb.co/xFnn6qp/PCB-SIMUL-FRONT.png" width="315" height="249"/><br><sup>(click on the image to see in full size)</sup></td>
+			<td style="text-align:center;"><img alt="Simulated (Bottom)" src="https://i.ibb.co/McNSy31/PCB-SIMUL-BACK.png" width="315" height="249"/><br><sup>(click on the image to see in full size)</sup></td>
 		</tr>
 	</table>
 </center>
@@ -40,7 +40,7 @@ PCB
 			<th colspan="1">Real PCB</th>
 		</tr>
 		<tr>
-			<td style="text-align:center;"><img alt="Real" src="http://oi66.tinypic.com/2d0bcd3.jpg" width="315" height="249"/><br><sup>(click on the image to see in full size)</sup></td>
+			<td style="text-align:center;"><img alt="Real" src="https://i.ibb.co/xFsscR8/PCB-FINAL.jpg" width="315" height="249"/><br><sup>(click on the image to see in full size)</sup></td>
 		</tr>
 	</table>
 </center>
